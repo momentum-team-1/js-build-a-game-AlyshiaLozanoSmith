@@ -1,0 +1,40 @@
+Game Class
+
+  responsiblities 
+    - know the boundries of the screen
+    -when game starts
+    -when game ends
+    -collision detection
+    -track score
+    -track missiles
+    -spawn goal
+    -collect goal (collision detection)
+    -
+
+    Collaborators
+    -player
+    -goal
+    -missiles
+
+
+    Player Class
+
+     responsiblities
+     -move based on user keys
+     
+     Collaborators
+     -keyborder
+     
+
+    Missiles Class
+
+    responsiblities
+    -scoll top down and side to side
+
+    Collaborators
+
+    Goal Class
+    responsiblities
+    -spawn in a random square on the screen
+
+    Collaborators 
